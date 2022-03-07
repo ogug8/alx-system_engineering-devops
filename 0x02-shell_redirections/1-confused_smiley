@@ -1,2 +1,2 @@
-#!\bin\bash
+#!/bin/bash
 echo -e '#!/bin/bash\necho "\"(Ôo)'"'>>1-confused_smiley
